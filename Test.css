@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+.row{
+    border: 1px solid black;
+    height: 150px;
+}
+.col{
+    border: 2px solid red;
+    display:inline-block;
+    height: 100%;
+    width: 33.33%;
+}
+.col2{
+    border: 2px solid rgb(5, 44, 200);
+    display:inline-block;
+    height: 100%;
+    width: 50%;
+}
+.row2{
+    border: 2px solid rgb(5, 125, 210);
+    height: 50%;
+}
